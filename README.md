@@ -7,6 +7,7 @@ Projeto desenvolvido no curso do prof. Nélio Alves utilizando Spring Boot.
 - Maven
 
 ## ▶️ Como Executar
+Execute o comando abaixo na raiz do projeto:
 ```bash
 ./mvnw spring-boot:run
 ```
